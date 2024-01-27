@@ -1,3 +1,6 @@
+const inquirer = require('inquirer');
+const fs = require('fs');
+
 // TODO: Create an array of questions for user input
 const questions = [
       {
@@ -61,6 +64,15 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
+    inquirer.prompt(questions)
+    .then((answers) => {
+      const readmeContent = generateMarkdown(answers); // Calls the generateMarkdown function here and passes the answers object
+      // to generate the README content
+      writeToFile('README.md', readmeContent); // Writes the content to the README.md file
+    })
+    .catch((error) => {
+      console.error(error);
+    });
 }
 
 // Function call to initialize app

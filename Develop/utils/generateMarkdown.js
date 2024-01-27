@@ -21,17 +21,16 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license) {
-  return `[License Link](https://opensource.org/licenses/${license})`;
-  } else {
-    return ''; // Return an empty string if no license is provided
+    return `## License`
   }
 }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-  ${renderLicenseBadge(data.license)}
-  `;
+${renderLicenseBadge(data.license)}
+${renderLicenseSection(data.license)}
+`;
 }
 
 module.exports = generateMarkdown;
