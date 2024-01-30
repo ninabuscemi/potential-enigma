@@ -1,7 +1,7 @@
-# Test Readme
+# README file test
 
 ## Description
-This is a test to the ReadMe file generator.
+This is a test.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,23 +13,23 @@ This is a test to the ReadMe file generator.
 - [Questions](#questions)
 
 ## Installation
-This is a test for the README file generator
+This is a test for instructions.
 
 ## Usage
-This is a test for the usage section.
+This is a test for information.
 
 ## Contribution
-This is a test for the guidelines.
+This is a test for guidelines.
 
 ## Tests
-This is a test for the instructions.
+This is a test for instructions.
 
 ## License
-![License: GPL 3.0](https://img.shields.io/badge/License-GPLv3-blue.svg) [License: GPL 3.0](https://opensource.org/licenses/GPL-3.0)
+[License: BSD 3-Clause](https://opensource.org/licenses/BSD-3-Clause) ![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
 
 ## Cost
 - Estimated Cost: undefined undefined
 
 ## Questions
-GitHub: [testme](https://github.com/testme)
+GitHub: [TestMe](https://github.com/TestMe)
 Email: testme@gmail.com
