@@ -53,10 +53,9 @@ ${data.contribution}
 ## Tests
 ${data.tests}
 
-## License
 ${renderLicenseSection(data.license)}
 ${renderLicenseBadge(data.license)}
-${renderLicenseSection(data.license)}
+${renderLicenseLink(data.license)}
 
 ## Cost
 - Estimated Cost: ${data.cost} ${data.currency}

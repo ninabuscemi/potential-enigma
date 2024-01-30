@@ -1,7 +1,7 @@
-# Readme generator
+# idk
 
 ## Description
-Idk
+idk
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,22 +13,25 @@ Idk
 - [Questions](#questions)
 
 ## Installation
-Idk
+idk
 
 ## Usage
-Idk
+idk
 
 ## Contribution
-Idk
+idk
 
 ## Tests
-Idk
+idk
 
 ## License
 ## License
+![License](https://img.shields.io/badge/license-GPL 3.0-green.svg)
+[License Link](https://opensource.org/licenses/GPL 3.0)
+
+## Cost
+- Estimated Cost: undefined undefined
 
 ## Questions
-GitHub: [ngbuscemi](https://github.com/ngbuscemi)
-Email: ngbuscemi@gmail.com
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-## License
+GitHub: [idk](https://github.com/idk)
+Email: idk
