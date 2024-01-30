@@ -26,15 +26,15 @@ function renderLicenseLink(license) {
   }
 }
 
-// If there is no license, return an empty string
 function renderLicenseSection(license) {
-  if (license) {
-    return `## License`
+  if (license) { // If there is a license, return the license section heading
+    return `## License` // If there is no license, return an empty string
   }
 }
 
-// TODO: Create a function to generate markdown for README
-function generateMarkdown(data) {
+
+// Function to generate markdown for README
+function generateMarkdown(data) { 
   const licenseBadge = renderLicenseBadge(data.license);
   const licenseLink = renderLicenseLink(data.license);
 
@@ -73,4 +73,4 @@ Email: ${data.email}
 `;
 }
 
-module.exports = generateMarkdown;
+module.exports = generateMarkdown; // Exporting the generateMarkdown function for external use
