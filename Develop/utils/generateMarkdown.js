@@ -69,7 +69,7 @@ ${data.contribution}
 ${data.tests}
 
 ${renderLicenseSection(data.license)}
-${licenseBadge} ${licenseLink}
+${licenseLink} ${licenseBadge}
 
 ## Cost
 - Estimated Cost: ${data.cost} ${data.currency}
