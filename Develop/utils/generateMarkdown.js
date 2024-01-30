@@ -13,7 +13,7 @@ function renderLicenseLink(license) {
   if (license) {
   return `[License Link](https://opensource.org/licenses/${license})`;
   } else {
-    return ''; // Return an empty string if no license is provided
+    return ''; // Returns an empty string if no license is provided
   }
 }
 

@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a weather forecast dashboard application that allows users to search for the current weather and forecast for any city. The application utilizes server-side APIs to retrieve weather data from a third-party weather API.
+This is a professional README file generator that provides a README file for the user's project. The generator inities a file that automatically inputs the description, table of contents, installation, usage, contribution, tests, license costs, and questions that is provided in the prompts by the user.
 
 ## Acceptance Criteria
 
@@ -24,9 +24,9 @@ THEN I am taken to the corresponding section of the README
 
 ## Usage
 
-- Enter the name of a city in the search bar and click the search button or press Enter.
-- The current weather conditions and 5-day forecast for the city will be displayed.
-- Saved cities can be accessed by clicking on the city name in the search history.
+- Follow the prompts to enter the necessary information for your project, such as the title, description, installation instructions, usage, etc.
+- Once you have provided all the required information, the README generator will generate a professional README file for your project. The generated README file will be saved as README.md in the project directory.
+- You can then open the generated README.md file and make any additional changes or edits as needed.
 
 ## Installation
 
