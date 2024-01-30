@@ -30,8 +30,6 @@ THEN I am taken to the corresponding section of the README
 
 ## Installation
 
-Pushed the code into the github repository and deployed in into github pages. For review and grading purposes, the application is deployed at [(https://ninabuscemi.github.io/weather-forecast/)].
-
 !["This website displays the weather dashboard forecast."](./assets/img/dashboard_screenshot.png)
 
 ## Contributing
