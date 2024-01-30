@@ -36,4 +36,4 @@ Pushed the code into the github repository and deployed in into github pages. Fo
 
 ## Contributing
 
-Contributions to the Weather Forecast Dashboard are welcome! If you find any issues or have suggestions for improvements, please submit a pull request. Make sure to follow the repository's code style and guidelines.
+Contributions to the ReadMe-Print Generator are welcome! If you find any issues or have suggestions for improvements, please submit a pull request. Make sure to follow the repository's code style and guidelines.
