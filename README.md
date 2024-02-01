@@ -30,8 +30,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Installation
 
-[![Video Demo](http://img.youtube.com/vi/Fgqw-obayD0/0.jpg)](https://www.youtube.com/watch?v=Fgqw-obayD0&ab_channel=NinaBuscemi)
-
+!["This README generator provides prompts for the user to answer before generating the file."](./Assets/test_video-ezgif.com-video-to-gif-converter.gif)
 
 
 ## Contributing
