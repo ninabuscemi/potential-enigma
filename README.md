@@ -30,7 +30,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Installation
 
-!["This website displays the weather dashboard forecast."](./assets/img/dashboard_screenshot.png)
+!["This README generator provides prompts for the user to answer before generating the file."](./Assets/test_video.mp4)
 
 ## Contributing
 

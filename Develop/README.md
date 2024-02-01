@@ -1,4 +1,4 @@
-# README file test
+# This is a test.
 
 ## Description
 This is a test.
@@ -13,23 +13,20 @@ This is a test.
 - [Questions](#questions)
 
 ## Installation
-This is a test for instructions.
+Test
 
 ## Usage
-This is a test for information.
+Test
 
 ## Contribution
-This is a test for guidelines.
+This is a test.
 
 ## Tests
-This is a test for instructions.
+This is a test.
 
 ## License
-[License: BSD 3-Clause](https://opensource.org/licenses/BSD-3-Clause) ![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
-
-## Cost
-- Estimated Cost: undefined undefined
+[License: GPL 3.0](https://opensource.org/licenses/GPL-3.0) ![License: GPL 3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 ## Questions
-GitHub: [TestMe](https://github.com/TestMe)
+GitHub: [test](https://github.com/test)
 Email: testme@gmail.com
