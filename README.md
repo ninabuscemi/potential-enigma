@@ -30,7 +30,8 @@ THEN I am taken to the corresponding section of the README
 
 ## Installation
 
-!["This README generator provides prompts for the user to answer before generating the file."] <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Fgqw-obayD0&ab_channel=NinaBuscemi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Demo](http://img.youtube.com/vi/Fgqw-obayD0/0.jpg)](https://www.youtube.com/watch?v=Fgqw-obayD0&ab_channel=NinaBuscemi)
+
 
 
 ## Contributing
